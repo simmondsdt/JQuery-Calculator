@@ -1,0 +1,25 @@
+.container {
+  padding: 15px;
+}
+
+#calculator {
+  background-color: grey;
+  border-radius: 10px;
+  width: 50%;
+}
+
+#screen {
+  width: 0 auto;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 10px 10px 10px 10px;
+}
+
+.red-border {
+  border: 1px solid red;
+}
+
+#clr-btn {
+  margin-top: 20px;
+}
